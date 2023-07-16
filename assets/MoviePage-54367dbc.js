@@ -1,0 +1,1 @@
+import{_ as a}from"./Media-dfd94526.js";import{y as o,z as t,o as s,c,a as n}from"./index-8305f61b.js";const r={class:"main"},l={__name:"MoviePage",setup(_){const e=o("reload");return t(()=>{e()}),(m,i)=>(s(),c("main",r,[n(a,{type:"movie"})]))}};export{l as default};
